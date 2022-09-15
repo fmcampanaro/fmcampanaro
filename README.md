@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently looking for a job as a Junior Developer!
+
 <!--
 **fmcampanaro/fmcampanaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
