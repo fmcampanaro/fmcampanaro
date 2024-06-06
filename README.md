@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fmcampanaro&label=Profile%20views&color=0e75b6&style=flat" alt="fmcampanaro" /> </p>
 
 - 🌱 I’m currently learning **CS50x**
+- 🔭 I’m currently working on **Tideman**😬
 
 - 📫 How to reach me **fernandocampanaro04@gmail.com**
 
